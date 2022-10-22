@@ -1,5 +1,0 @@
-
-User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
-Sitemap: https://multireligionvalsystem.cf/sitemap.xml
